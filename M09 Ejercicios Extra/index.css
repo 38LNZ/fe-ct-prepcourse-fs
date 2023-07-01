@@ -1,0 +1,43 @@
+h1{color: rgb(20, 0, 135);
+font-family:Georgia, 'Times New Roman', Times, serif;
+font-weight: normal;
+}
+nav,ul li{background-color: brown;
+list-style-type:none;}
+ul li:hover {
+    background-color: bisque}
+    p {
+        font-weight: bold;
+    }
+    a:link{background-color:forestgreen;
+text-decoration-color: aqua;}
+    a:hover{background-color: bisque;}
+    a:visited {
+        color: red;
+        text-decoration-color: hotpink;}
+        input, textarea:focus {
+            background-color: lightblue;
+        }
+        img {image-rendering:auto;
+            object-fit: none;
+            filter: contrast(100%);}
+body{background-image: url(https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg);}
+table{font-size: 20px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+width: 100%;
+height: 100%;
+margin: 0;
+padding: 0;
+background-color: blueviolet;}
+thead{width: 100%;
+height: 100%;
+margin: 0;
+padding: 20px;
+text-align: center;
+background-color: yellowgreen;}
+nav{height: 100px;
+width: 100%;
+margin: 0;
+padding: 0;
+list-style-type:none;
+border: 90cqmax;}
